@@ -1,0 +1,3 @@
+[submodule "d3v5_workshop"]
+	path = d3v5_workshop
+	url = https://github.com/shimizu/d3v5_workshop.git
