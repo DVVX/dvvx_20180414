@@ -1,3 +1,6 @@
 [submodule "d3v5_workshop"]
 	path = d3v5_workshop
 	url = https://github.com/shimizu/d3v5_workshop.git
+[submodule "d3_example_01"]
+	path = d3_example_01
+	url = https://github.com/uchida75cm/d3_example_01.git
